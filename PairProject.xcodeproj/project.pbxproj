@@ -129,8 +129,8 @@
 		A5646A6921E66728007DF214 /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				A5646A6721E66722007DF214 /* Pokemon.swift */,
 				A5646A6A21E66730007DF214 /* Magic.swift */,
+				A5646A6721E66722007DF214 /* Pokemon.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -139,8 +139,8 @@
 			isa = PBXGroup;
 			children = (
 				A5646A6C21E669C1007DF214 /* MagicCell.swift */,
-				A5646A6F21E669D3007DF214 /* PokemonCell.swift */,
 				A5646A7121E669DB007DF214 /* MagicDetailCell.swift */,
+				A5646A6F21E669D3007DF214 /* PokemonCell.swift */,
 				A5646A7321E669E5007DF214 /* PokemonDetailCell.swift */,
 			);
 			path = Views;
